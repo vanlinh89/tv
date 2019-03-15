@@ -1,0 +1,830 @@
+{
+  "name": "List TV",
+  "author": "Văn Lĩnh",
+  "image": "https://wiseplay.tv/wp-content/uploads/2016/10/logo512.png",
+  "info": "List kênh xem tivi dành cho mọi lứa tuổi",
+  "url": "https://sites.google.com/site/kodi81vn/iptv/TV.w3u",
+	"groups": [
+	
+    {
+      "name": "Kênh VTV",
+      "image": "https://i.imgur.com/tiWqTXi.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/rAoxhUR.jpg",
+          "name": "VTV1 HD",
+          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv1-1.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/rAoxhUR.jpg",
+          "name": "VTV1 HD S2",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV1_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/rxu85MJ.jpg",
+          "name": "VTV2 HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV2_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/49u8GIe.jpg",
+          "name": "VTV3 HD",
+          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv3-3.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/49u8GIe.jpg",
+          "name": "VTV3 HD S2",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV3_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/7TPjpMp.jpg",
+          "name": "VTV4 HD",
+          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv4-4.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/inrpbcy.jpg",
+          "name": "VTV5 HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV5_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/NRXhVNi.jpg",
+          "name": "VTV5 HD TNB",
+          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv5-t%C3%A2y-nam-b%E1%BB%99-7.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/drqRFyO.jpg",
+          "name": "VTV6 HD",
+          "url": "https://vtvgo.vn/xem-truc-tuyen-kenh-vtv6-6.html",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/drqRFyO.jpg",
+          "name": "VTV6 HD S2",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV6_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/pLPQlvQ.jpg",
+          "name": "VTV7 HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV7_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/vo8lwjz.jpg",
+          "name": "VTV8 HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VTV8_HD/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/dh80Z8n.jpg",
+          "name": "VTV9 HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/VTV9_HD_NEW/03.m3u8"
+        }
+]
+    },
+    {
+      "name": "Kênh VTVcab",
+      "image": "https://i.imgur.com/jeNYIjy.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/LuDNRtL.jpg",
+          "name": "Giải Trí TV HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/GIAITRI_TV_HD/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/3qoblto.jpg",
+          "name": "Phim Việt HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/PHIM_VIET/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/ftaskiS.jpg",
+          "name": "Văn Hóa HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VAN_HOA/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/REHU9wb.jpg",
+          "name": "E Channel HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/E_CHANNEL/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/dNGJK53.jpg",
+          "name": "HayTV HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/HAY_TV/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/ByCPo1q.jpg",
+          "name": "D Dramas HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/D_DRAMAS_HD/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/mZG8cit.jpg",
+          "name": "BiBi",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/y0ola5o.jpg",
+          "name": "Info TV HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/INFO_TV_NEW/01.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/WYUKS6U.jpg",
+          "name": "VTVcab10 HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/O2_TV_NEW/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/aAJWp8n.jpg",
+          "name": "StyleTV HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/STYLE_TV_HD/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/F5bMSRl.jpg",
+          "name": "M Channel HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/M_CHANNEL/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/BEwGua0.jpg",
+          "name": "Yeah1! TV",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/YEAH1_TV/02.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/CnH2l1b.jpg",
+          "name": "Thể thao Tin tức HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/THETHAO_TINTUC_HD/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/z7wnoEv.jpg",
+          "name": "Film TV",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/FILM_TV/04.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/xt7fw3Q.jpg",
+          "name": "V Family",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VFAMILY/02.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/PUEJIgp.jpg",
+          "name": "Cartoon Kids HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/BIBI_PLUS_clear/05.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/Lrd3zA6.jpg",
+          "name": "LIFE TV",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/LIFE_TV/02.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/gXodd9Q.jpg",
+          "name": "Thể thao Golf HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/THETHAO_GOLF_HD/05.m3u8"
+        }
+]
+    },
+    {
+      "name": "Kênh HTVC",
+      "image": "https://i.imgur.com/bO8GwRJ.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/c6FnasB.jpg",
+          "name": "HTV1",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/ymQSwGb.jpg",
+          "name": "HTV2",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/QVtcSM5.jpg",
+          "name": "HTV3",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/cNmG6tY.jpg",
+          "name": "HTV4",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/z3xqooG.jpg",
+          "name": "HTV7",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/0KoiYxW.jpg",
+          "name": "HTV9",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/8CPRDVA.jpg",
+          "name": "HTVC Ca Nhạc",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/JCXTwF2.jpg",
+          "name": "HTVC Du lịch",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/j9BIkaU.jpg",
+          "name": "HTVC Gia Đình",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/ChQ7M8o.jpg",
+          "name": "HTVC Phim",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/feNDcsq.jpg",
+          "name": "HTVC Phụ Nữ",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/6x5Y6jn.jpg",
+          "name": "HTVC Thuần Việt",
+          "url": "http://data.xemtivinet.net/live/htv/htvc-thuanviethd.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        }
+]
+    },
+    {
+      "name": "Kênh VTC",
+      "image": "https://i.imgur.com/AWKrNsC.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/AtNf507.jpg",
+          "name": "VTC1 HD",
+          "url": "https://www.vtc.gov.vn/kenh/vtc1",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/kW7vHMJ.jpg",
+          "name": "VTC2",
+          "url": "https://www.vtc.gov.vn/kenh/vtc2",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/1gN8hUg.jpg",
+          "name": "VTC3 HD",
+          "url": "https://www.vtc.gov.vn/kenh/vtc3",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/XSvex2B.jpg",
+          "name": "VTC4 _ Yeah1! Family",
+          "url": "https://www.vtc.gov.vn/kenh/vtc4",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/2VICwo9.jpg",
+          "name": "VTC5 tvBlue",
+          "url": "https://www.vtc.gov.vn/kenh/vtc5",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/olQWyCG.jpg",
+          "name": "VTC6",
+          "url": "https://www.vtc.gov.vn/kenh/vtc6",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/sPnRL3x.jpg",
+          "name": "VTC7 Today",
+          "url": "https://www.vtc.gov.vn/kenh/vtc7",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/DThtcr0.jpg",
+          "name": "VTC8",
+          "url": "https://www.vtc.gov.vn/kenh/vtc8",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/e7OhHBl.jpg",
+          "name": "VTC9 HD",
+          "url": "https://www.vtc.gov.vn/kenh/vtc9",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/LTURR44.jpg",
+          "name": "VTC10",
+          "url": "https://www.vtc.gov.vn/kenh/vtc10",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/VXQn44C.jpg",
+          "name": "VTC11 Thiếu Nhi",
+          "url": "https://www.vtc.gov.vn/kenh/vtc11",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/IQa7GYM.jpg",
+          "name": "VTC13 HD",
+          "url": "https://www.vtc.gov.vn/kenh/vtc13",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/ieZoCTt.jpg",
+          "name": "VTC14 HD",
+          "url": "https://www.vtc.gov.vn/kenh/vtc14",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/NFOWCfw.jpg",
+          "name": "VTC16",
+          "url": "https://www.vtc.gov.vn/kenh/vtc16",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/TSdz6wk.png",
+          "name": "VOV Vietnam Journey HD",
+          "url": "http://vncdn.mediatech.vn/vovlive/tv1live.m3u8"
+        }
+]
+    },
+    {
+      "name": "Kênh SCTV",
+      "image": "https://i.imgur.com/n5iPkwu.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/wOLV702.jpg",
+          "name": "SCTV9",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1121237409367",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/qyM5x30.jpg",
+          "name": "SCTV11",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1131735621207",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        }
+]
+    },
+    {
+      "name": "Kênh Địa Phương",
+      "image": "https://i.imgur.com/46r1tuZ.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/UTI7nFq.jpg",
+          "name": "Nhân Dân HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/THND_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/6uS9JgJ.jpg",
+          "name": "TTXVN",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/TTXVN_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/4CnX1LC.jpg",
+          "name": "ANTV HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/ANTV/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/6UFpJHo.jpg",
+          "name": "QPVN HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/QPVN/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/pgX4toH.jpg",
+          "name": "Quốc Hội HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/QHVN_HD/03.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/DH2scM8.jpg",
+          "name": "Vĩnh Long 1 HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VINHLONG1_HD/05.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/aQYIbgU.jpg",
+          "name": "Vĩnh Long 2 HD",
+          "url": "http://liverestreamobj.5b1df984.cdnviet.com/hls/VINHLONG2_HD/05.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/nbGrT57.jpg",
+          "name": "Vĩnh Long 3 HD",
+          "url": "http://bit.ly/thvl3d81"
+        },
+        {
+          "image": "https://i.imgur.com/w27C8Ou.jpg",
+          "name": "An Giang",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myangiang_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/gHCKxLs.jpg",
+          "name": "Bà Rịa Vũng Tàu",
+          "url": "http://live.cdn.mobifonetv.vn/motv/mybrt_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/gHCKxLs.jpg",
+          "name": "Bà Rịa Vũng Tàu HD",
+          "url": "http://113.163.216.23:1935/live/THonline/chunklist.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/yiHejE2.jpg",
+          "name": "Bắc Kạn",
+          "url": "http://118.107.68.10:1935/live/_definst_/BK_live/chunklist.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/uABWf7n.jpg",
+          "name": "Bình Dương 1",
+          "url": "http://live.cdn.mobifonetv.vn/motv/mybtv1_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/SvdNoL1.jpg",
+          "name": "Bình Dương 2",
+          "url": "http://live.cdn.mobifonetv.vn/motv/mybtv2_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/6FuyDd1.jpg",
+          "name": "Đà Nẵng 1",
+          "url": "http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/9WhjMl5.jpg",
+          "name": "Đà Nẵng 2",
+          "url": "http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/fk03iWk.jpg",
+          "name": "Đồng Nai 1",
+          "url": "http://live.cdn.mobifonetv.vn/motv/mydongnai1_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/xjvbvx7.jpg",
+          "name": "Hà Nội 1 HD",
+          "url": "http://hanoitvlive.8ef55e0c.cdnviet.com/hanoi1.smil/chunklist_b3500000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/cRyxrpm.jpg",
+          "name": "Hà Nội 2 HD",
+          "url": "http://vncdn.mediatech.vn/hntvlive/tv2live.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/AOG2Dr1.jpg",
+          "name": "Hà Giang",
+          "url": "http://118.107.68.10:1935/live/_definst_/HG_live/chunklist.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/vH7Rc8P.jpg",
+          "name": "Thái Bình HD",
+          "url": "http://vncdn.mediatech.vn/tbtvlive/tv1live.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/DUdxCJq.jpg",
+          "name": "Trà Vinh",
+          "url": "http://123.30.191.202/hls/travinh.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/qLr7ksR.jpg",
+          "name": "Hậu Giang",
+          "url": "http://haugiangtv.e96bbe18.sabai.vn/hgtv/chunklist.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/lodNW7n.jpg",
+          "name": "Hà Tĩnh",
+          "url": "http://171.244.141.125/hls/stream.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/DXgPtOd.jpg",
+          "name": "Khánh Hòa",
+          "url": "http://210.245.20.94/hls/ktv1.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/JFIqYeA.jpg",
+          "name": "Cần Thơ",
+          "url": "http://tv.canthotv.vn/live/tv/tv.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/tKcn5oR.jpg",
+          "name": "Gia Lai",
+          "url": "http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/vmEssdO.jpg",
+          "name": "Cà Mau",
+          "url": "http://tv.ctvcamau.vn/live/tv/tv.m3u8"
+        }
+]
+    },
+    {
+      "name": "Kênh Quốc Tế",
+      "image": "https://i.imgur.com/cDexjjI.jpg",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/JIrWybu.jpg",
+          "name": "Warner TV",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1316040023639",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/ItVoqKV.jpg",
+          "name": "Fashion TV",
+          "url": "https://www.youtube.com/watch?v=2k4VRvqPoFg",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/bAwPJzj.jpg",
+          "name": "Disney Thiếu Nhi",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1121895849559&idkenh=disney",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/hCUmhxf.jpg",
+          "name": "Da Vinci Kids",
+          "url": "http://sv.tvmienphi.net/ok/world/davincishow.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/7bW00sF.jpg",
+          "name": "Cartoon Network",
+          "url": "http://gg.gg/ctnw81",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/3WtwEBK.jpg",
+          "name": "Disney Junior",
+          "url": "http://sv.tvmienphi.net/ok/world/disneyjunior1.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/4Dob3xo.jpg",
+          "name": "Animal Planet",
+          "url": "http://m.xemtivivn.com/animal-2.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/OCzxza3.jpg",
+          "name": "Asian Food Channel",
+          "url": "http://sv.tvmienphi.net/ok/world/afc1.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/bByjfq2.jpg",
+          "name": "National Geographic",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137107803735&idkenh=neogeo",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/6P7OI6T.jpg",
+          "name": "Discovery",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137116585559",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/YMT17vp.jpg",
+          "name": "Diva TV",
+          "url": "http://sv.tvmienphi.net/ok/world/divashow.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/8JifSZm.jpg",
+          "name": "Fox Movies",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1316067155543",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/InnkSn1.jpg",
+          "name": "FOX Life",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1314272714327",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/YUy6pMB.jpg",
+          "name": "HBO HD",
+          "url": "http://m.xemtvtructuyen.net/hbo-4.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/oj9L5ud.jpg",
+          "name": "HBO",
+          "url": "http://m.tivi12h.net/hbo.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/bVhE0OJ.jpg",
+          "name": "Red by HBO",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201940567",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/Zo4ulEV.jpg",
+          "name": "Max by HBO",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201088599&idkenh=cinemax",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/AUNEF5P.jpg",
+          "name": "AXN HD",
+          "url": "http://m.tivi12h.net/axn-2.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/ON9IVaH.jpg",
+          "name": "Cinema World",
+          "url": "http://m.tivionlinehd.net/cinemax-2.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/YMT17vp.jpg",
+          "name": "DIVA",
+          "url": "http://sv.tvmienphi.net/ok/world/diva1.php",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/yon9TPw.jpg",
+          "name": "MTV",
+          "url": "http://m.xemtvonline.net/mtv.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/Pkq3Yx8.jpg",
+          "name": "MTV Live HD",
+          "url": "http://tv.vnoo.net/livetv/mtv-live-hd/mtvlivehd.html",
+          "referrer": "http://tv.vnoo.net/",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/7jkT9D5.jpg",
+          "name": "Ariang",
+          "url": "http://tv.vnoo.net/livetv/arirang/arirang.html",
+          "referrer": "http://tv.vnoo.net/",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/b7t0Sfx.jpg",
+          "name": "Channel News Asia",
+          "url": "http://tv.vnoo.net/livetv/channel-news-asia/cna.html",
+          "referrer": "http://tv.vnoo.net/",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/zAtvPEu.jpg",
+          "name": "HGTV _ Home & Garden TV HD",
+          "url": "http://liverestream2obj.5b1df984.cdnviet.com/hls/HGTV_HD_clear/03.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "GETLINK OK.RU by LĨNH",
+      "image": "",
+      "stations": [
+        {
+          "image": "https://i.imgur.com/lHtzh0r.jpg",
+          "name": "HTVC Thể Thao",
+          "url": "http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/chunklist_b1200000.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/hkzIv0O.jpg",
+          "name": "SCTV15 SPORT 2",
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1316058701399",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/iOI7IFS.jpg",
+          "name": "AD Sport 1 HD",
+          "url": "http://adtv.ercdn.net/adsport1/adsport1_720p.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/SXgrGVO.jpg",
+          "name": "AD Sport 2 HD",
+          "url": "http://adtv.ercdn.net/adsport2/adsport2_720p.m3u8"
+        },
+        {
+          "image": "https://i.imgur.com/p03ighD.jpg",
+          "name": "FOX SPORT HD",
+          "url": "http://m.tivionlinehd.net/fox-3.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://i.imgur.com/yf8obm9.jpg",
+          "name": "FOX SPORT 2 HD",
+          "url": "http://m.tivionlinehd.net/fox2.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://img.hplus.com.vn/355x200/poster/2018/06/05/101479-Foxmovie.png",
+          "name": "Fox Movies",
+          "url": "https://ok.ru/videoembed/1316067155543"
+        },
+        {
+          "image": "http://img.hplus.com.vn/728x409/banner/2018/06/05/931417-WarnerTV.png",
+          "name": "Warner TV",
+          "url": "https://ok.ru/videoembed/1316040023639"
+        },
+        {
+          "image": "http://img.hplus.com.vn/355x200/poster/2018/06/05/800823-FoxLife.png",
+          "name": "Fox Life",
+          "url": "https://ok.ru/videoembed/1314272714327"
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/sctv1.png",
+          "name": "SCTV11-STAR",
+          "url": "https://ok.ru/videoembed/1131735621207",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/sctv9.png",
+          "name": "SCTV9-Film",
+          "url": "https://ok.ru/videoembed/1121237409367",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/sctv1.png",
+          "name": "SCTV1",
+          "url": "https://ok.ru/videoembed/1120720199255",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/sctv2.png",
+          "name": "SCTV2-AMC",
+          "url": "https://ok.ru/videoembed/1120708337239",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+        {
+          "image": "https://i.imgur.com/Rn6Hd1e.jpg",
+          "name": "Max By HBO",
+          "url": "https://ok.ru/videoembed/1120201088599",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Screen_RED_%28logo%29.jpg",
+          "name": "Red by HBO",
+          "url": "https://ok.ru/videoembed/1120201940567",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/hbo.png",
+          "name": "HBO HD",
+          "url": "http://m.xemtivionline.net/hbo.php",
+		  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/disney.png",
+          "name": "Disney Channel",
+          "url": "http://m.xemtivionline.net/disney.php",
+		  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        },
+        {
+          "image": "http://www.xemtivionline.net/image/axn.png",
+          "name": "AXN HD",
+          "url": "http://m.xemtivionline.net/axn.php",
+		  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
+        }
+      ]
+    }
+				]
+}
