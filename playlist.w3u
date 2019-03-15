@@ -818,9 +818,9 @@
           "isHost": true
         },
         {
-          "image": "http://www.xemtivionline.net/image/axn.png",
-          "name": "AXN HD",
-          "url": "http://m.xemtivionline.net/axn.php",
+          "image": "http://www.xemtivionline.net/image/hbo.png",
+          "name": "HBO SD",
+          "url": "https://ok.ru/videoembed/1119451356759",
 		  "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         }
