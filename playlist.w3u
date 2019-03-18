@@ -1186,17 +1186,15 @@
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S1",
           "url": "http://m.xemtivionline.net/hbo.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "referrer":"http://play.nhanhtv.com",
+          "isHost" : true
         },
 	{
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S2",
           "url": "http://m.xemtvtructuyen.net/hbo.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "referrer":"http://play.nhanhtv.com",
+          "isHost" : true
         },
         {
           "image": "https://lh3.googleusercontent.com/-W0nJPWHMsxU/W1iti8X3vmI/AAAAAAAAEIQ/w0xEMSsV6HwFUTqcIgoZgTLNRdEN-ep5ACEwYBhgL/w140-h70-p/redhbovip.png",
