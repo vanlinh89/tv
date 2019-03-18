@@ -797,7 +797,7 @@
 		]
 	},        
     {
-      "name": "Truyền hình Việt Nam",
+      "name": "Truyền hình Việt Nam và Quốc tế",
       "image": "http://bhvdtp.com/image/thumb/s-0/dd71f92ee5d2727fe879cdfe001b35fc.jpg",
       "stations": [
         {  
@@ -1170,15 +1170,15 @@
         },
         {
          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO s1",
+          "name": "HBO SD",
           "url": "http://bat.nhanhtv.com/menh1.php?sv=hbo",
           "referrer":"http://play.nhanhtv.com",
           "isHost" : true
         },
         {
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO s2",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1119451356759&idkenh=hbo",
+          "name": "HBO HD",
+          "url": "http://m.xemtivionline.net/hbo.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
