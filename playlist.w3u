@@ -1170,15 +1170,30 @@
         },
         {
          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO SD",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=hbo",
+          "name": "HBO SD S1",
+          "url": "http://data.xemtiviso.net/live/quocte/hbo1.php",
+          "referrer":"http://play.nhanhtv.com",
+          "isHost" : true
+        },
+	{
+         "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
+          "name": "HBO SD S2",
+          "url": "http://data.xemtiviso.net/live/quocte/hbo2.php",
           "referrer":"http://play.nhanhtv.com",
           "isHost" : true
         },
         {
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO HD",
+          "name": "HBO HD S1",
           "url": "http://m.xemtivionline.net/hbo.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+	{
+          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
+          "name": "HBO HD S2",
+          "url": "http://m.xemtvtructuyen.net/hbo.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
