@@ -3319,7 +3319,7 @@
         {
           "image": "http://phimnhanh.com/favicon.ico",
           "name": "Phimnhanh.com: Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://phimnhanh.com/",
+          "url": "http://kingmovie.tv/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
@@ -3336,14 +3336,6 @@
           "image": "http://tvhay.org/favicon.ico",
           "name": "Xem phim trên web TVhay.org (subViet): Chọn thể loại và phim cần xem > bấm xem phim và Chọn link (R.PRO hoặc VIP.D) để xem phim",
           "url": "http://tvhay.org/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
-          "image": "http://www.xomvnonline.com/images/logo.png",
-          "name": "Mở phim cần xem > bấm xem phim để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
-          "url": "http://www.xomvnonline.com/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
