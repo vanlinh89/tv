@@ -3269,6 +3269,22 @@
       "image": "https://i.postimg.cc/zXndkQ3Q/Movies.png",
       "stations": [
         {
+          "image": "https://vnreview.vn/image/18/17/88/1817886.jpg",
+          "name": "Phim Mới chấm Net",
+          "url": "http://www.phimmoi.net/phim-le/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+	{
+          "image": "https://fimfast.com/assets/img/logo.png",
+          "name": "Phim Fast chấm Com",
+          "url": "https://fimfast.com/phim-le",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "playInNatPlayer": "true",
+          "embed": "true"
+        },
+	{
           "image": "https://fptplay.net/img/new_footer/logo-8-3.png",
           "name": "FPTplay - Mở phim cần xem để get link > click play (góc trên cùng bên phải màn hình) để xem phim",
           "url": "https://fptplay.vn/danh-muc/5841452d17dc130a9ab827d4/phim-le.html",
