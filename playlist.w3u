@@ -1185,7 +1185,7 @@
 	{
          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO SD S3",
-          "url": "http://mytv.tranvinh.tk:4022/rtp/232.84.1.19:8088",
+          "url": "http://113.168.178.156:8889/rtp/232.84.1.19:8088",
           "referrer":"http://play.nhanhtv.com",
           "isHost" : true
         },
@@ -1206,7 +1206,7 @@
 	{
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S3",
-          "url": "http://mytv.tranvinh.tk:4022/rtp/232.84.2.138:10648",
+          "url": "http://113.168.178.156:8889/rtp/232.84.2.138:10648",
           "referrer":"http://play.nhanhtv.com",
           "isHost" : true
         },
