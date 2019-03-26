@@ -1121,22 +1121,20 @@
           "name": "Natgeo",
           "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137107803735&idkenh=neogeo",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
         {
           "image": "https://lh3.googleusercontent.com/-n3TK4lu50iE/VpxAZhcZ5gI/AAAAAAAAAK8/_glZ-AAcAa0/h120/discovery(1).png",
           "name": "Discovery",
           "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137116585559&idkenh=discovery",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
         {           
           "image": "http://xemtvonline.net/hinh/animal.png",
           "name": "Animalplanet",
           "url": "http://www.xemtvonline.net/xem-kenh-tivi-animal-truc-tuyen-truc-tiep.html",
-          "referrer": "http://m.xemtvonline.net/animal.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
         {
@@ -1144,6 +1142,7 @@
           "image": "https://lh3.googleusercontent.com/-XP11Cu7D2MM/WYrbVnEeCvI/AAAAAAAADmw/eSDtWChRMLoPEdZTYcz8ebEMBYXOE_YyQCLcBGAs/h120/davincilearning.png",
           "name": "Davinci",
           "url": "http://sv.tvmienphi.net/ok/world/davinci1.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
         {
@@ -1151,129 +1150,113 @@
           "image": "https://lh3.googleusercontent.com/-ESIxK612-nM/WYrZ2vGnMjI/AAAAAAAADmk/F6oAbdr0-eMSk19Zokifoop8Mq83KfHcwCLcBGAs/h120/DIVA-logo.png",
           "name": "Diva",
           "url": "http://sv.tvmienphi.net/ok/world/diva1.php",
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "isHost": true
         },
         {
           "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",
           "name": "Fox Movies s1",
           "url": "http://bat.nhanhtv.com/menh1.php?sv=starmovies",
-          "referrer":"http://play.nhanhtv.com",
-          "isHost" : true
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
         {
           "image": "https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1515739984/cmc_new/img.live_channel/0/0/0/0/219.jpg",
           "name": "Fox Movies s2",
           "url": "http://sv.tvmienphi.net/ok/world/starmovies11.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
         {
          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO SD S1",
           "url": "http://data.xemtiviso.net/live/quocte/hbo1.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
 	{
          "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO SD S2",
           "url": "http://data.xemtiviso.net/live/quocte/hbo2.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
 	{
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S1",
           "url": "http://m.xemtivionline.net/hbo.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
 	{
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S2",
           "url": "http://m.xemtvtructuyen.net/hbo.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
 	{
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S3",
           "url": "http://m.xemtvtructuyen.net/hbo-4.php",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
         {
           "image": "https://lh3.googleusercontent.com/-W0nJPWHMsxU/W1iti8X3vmI/AAAAAAAAEIQ/w0xEMSsV6HwFUTqcIgoZgTLNRdEN-ep5ACEwYBhgL/w140-h70-p/redhbovip.png",
           "name": "Red by HBO",
           "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201940567&idkenh=redhbo",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
         {
           "image": "https://lh3.googleusercontent.com/-eMIcL7uB5ZA/WYq33-BDMkI/AAAAAAAADlM/sq5L2k6vZUcqANUC1YDtnYXgjhAspUkUACEwYBhgL/w140-h66-p/9740642-logo-max-by-hbo.png",
-          "name": "Max by HBO s1",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=cinemax",
-          "referrer":"http://play.nhanhtv.com",
-          "isHost" : true
-        },
-        {
-          "image": "https://lh3.googleusercontent.com/-eMIcL7uB5ZA/WYq33-BDMkI/AAAAAAAADlM/sq5L2k6vZUcqANUC1YDtnYXgjhAspUkUACEwYBhgL/w140-h66-p/9740642-logo-max-by-hbo.png",
-          "name": "Max by HBO s2",
+          "name": "Max by HBO",
           "url": "http://sv.tvmienphi.net/playlinkz.php?id=1120201088599&idkenh=cinemax",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
         {
           "image": "http://i.imgur.com/LUZ6MpD.png",
           "name": "AXN s1",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=axn",
-         "referrer":"http://play.nhanhtv.com",
-          "isHost" : true
+          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1131717860951&idkenh=axn",
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
         {
           "image": "http://i.imgur.com/LUZ6MpD.png",
           "name": "AXN s2",
           "url": "http://data.xemtivinet.net/live/quocte/axn.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
         },
         {
           "image": "https://lh3.googleusercontent.com/-SSNrUI2r1jA/WYrQnrfBAgI/AAAAAAAADmA/LK-p2Ar3oTs7s5mCXKgnhQ01OBmQbdx-ACLcBGAs/h120/614-cinema-world-on-demand.png",
           "name": "Cinema World",
-          "url": "http://sv.tvmienphi.net/playlinkz.php?id=1137947188823&idkenh=cinemaworld",
+          "url": "http://m.tivionlinehd.net/cinemax-2.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
+          "isHost": true
          },
          {
           "image": "https://imgur.com/LsOkH5s.png",
           "name": "Fox life",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=starworld",
-          "referrer":"http://play.nhanhtv.com",
-          "isHost" : true
+          "url": "http://m.tivi12h.net/star-world-2.php",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
         {
           "image": "https://imgur.com/pycFGMd.png",
           "name": "Disney",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=disney",
-         "referrer":"http://play.nhanhtv.com",
-          "isHost" : true
+          "url": "http://m.tivionlinehd.net/disney.php",
+         "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
         {
           "image": "https://imgur.com/5F7FNTO.png",
           "name": "Cartoon",
-          "url": "http://bat.nhanhtv.com/menh1.php?sv=cartoon",
-         "referrer":"http://play.nhanhtv.com",
-          "isHost" : true
+          "url": "http://m.tivionlinehd.net/carton-cn-2.php",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
+          "isHost": true
         },
         {
           "image": "http://www.xemtivimienphi.com/image/angiang.png",
