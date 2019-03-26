@@ -1185,14 +1185,6 @@
           "embed": "true"
         },
 	{
-         "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
-          "name": "HBO SD S3",
-          "url": "http://113.168.178.156:8889/rtp/232.84.1.19:8088",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
-          "playInNatPlayer": "true",
-          "embed": "true"
-        },
-        {
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S1",
           "url": "http://m.xemtivionline.net/hbo.php",
@@ -1211,7 +1203,7 @@
 	{
           "image": "https://lh3.googleusercontent.com/-9Q1IA887yas/VpxAefCF7cI/AAAAAAAAAMw/-nPsuo8Bob4/h120/hbo(1).png",
           "name": "HBO HD S3",
-          "url": "http://113.168.178.156:8889/rtp/232.84.2.138:10648",
+          "url": "http://m.xemtvtructuyen.net/hbo-4.php",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3782.79 Safari/537.36",
           "playInNatPlayer": "true",
           "embed": "true"
